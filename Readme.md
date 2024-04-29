@@ -1,13 +1,13 @@
-# Coding Assessment L-2 Code Submission Process with Boilerplate
+# Coding Assessment L-2 - Code Submission By Pulicherla Pavani
 
-Welcome to the coding assessment l2. We are excited to see your skills in action. Please follow the instructions below to submit your solution.
+Welcome to the Marmeto Coding Assessment L-2.
 
 ## Getting Started
 
 1. **Clone or Download:**
    - If using Git, clone the repository using the following command:
      ```
-     git clone https://github.com/mmdmrishabh/Coding-assessment-l2-Boilerplate-code.git
+     https://github.com/Pavani7701/CodeSubmission.git
      ```
    - Alternatively, download the code as a ZIP file and extract it.
 
@@ -38,6 +38,19 @@ Take a moment to review the project structure:
 - Test your code to ensure it produces the expected output.
 - Ensure that the console (Developer Tools) does not display any errors.
 
+## Technologies Used in this webpage
+- HTML
+- CSS
+- JavaScript
+
+## Features Added to this Project
+- **Event Handlers:** Buttons like mensBtn, womenBtn, kidsBtn are used Event Handlers Using JavaScript.
+- **Asynchronous:** Used async and await to asynchronous operation like fetch.
+- **Tab Switching:** Implemented a mechanism to toggle between the tabs i.e. buttons.
+- **Responsive Website:** This application i.e. webpage is responsive across the devices like Mobile Screen, Tablet Screen and Desktop Screen.
+
+##Screenshots
+![marrmeto_assessment](https://github.com/Pavani7701/CodeSubmission/assets/70022492/b4a9d156-0103-4bee-945d-21f34a3a8182)
 
 ---
 ## Submission Guidelines
