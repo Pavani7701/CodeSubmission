@@ -2,6 +2,8 @@
 
 Welcome to the Marmeto Coding Assessment L-2.
 
+Hosting my coding assessment project in Netlify: https://main--pavani-marmeto-coding-submission.netlify.app/
+
 ## Getting Started
 
 1. **Clone or Download:**
